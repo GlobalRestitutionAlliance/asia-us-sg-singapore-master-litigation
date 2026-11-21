@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: singaporean-restitution-roadmap-and-qsf-trust-execution
-  name: Singaporean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/singaporean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sg_001
+    name: Singapore Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_002
+    name: Singapore Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_003
+    name: Singapore Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_004
+    name: Singapore Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_005
+    name: Singapore Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_006
+    name: Singapore Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_007
+    name: Singapore Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_008
+    name: Singapore Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_009
+    name: Singapore Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_010
+    name: Singapore Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_011
+    name: Singapore Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_012
+    name: Singapore Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_013
+    name: Singapore Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_014
+    name: Singapore Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_015
+    name: Singapore Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_016
+    name: Singapore Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_017
+    name: Singapore Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_018
+    name: Singapore Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_019
+    name: Singapore Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_020
+    name: Singapore Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_021
+    name: Singapore Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_022
+    name: Singapore Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_023
+    name: Singapore Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_024
+    name: Singapore Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_025
+    name: Singapore Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_026
+    name: Singapore Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_027
+    name: Singapore Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_028
+    name: Singapore Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_029
+    name: Singapore Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_030
+    name: Singapore Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_031
+    name: Singapore Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_032
+    name: Singapore Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_033
+    name: Singapore Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_034
+    name: Singapore Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_035
+    name: Singapore Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_036
+    name: Singapore Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_037
+    name: Singapore Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_038
+    name: Singapore Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_039
+    name: Singapore Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_040
+    name: Singapore Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_041
+    name: Singapore Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_042
+    name: Singapore Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_043
+    name: Singapore Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_044
+    name: Singapore Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_045
+    name: Singapore Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_046
+    name: Singapore Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_047
+    name: Singapore Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_048
+    name: Singapore Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_049
+    name: Singapore Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_050
+    name: Singapore Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_051
+    name: Singapore Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_052
+    name: Singapore Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_053
+    name: Singapore Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_054
+    name: Singapore Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_055
+    name: Singapore Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_056
+    name: Singapore Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_057
+    name: Singapore Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_058
+    name: Singapore Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_059
+    name: Singapore Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_060
+    name: Singapore Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_061
+    name: Singapore Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_062
+    name: Singapore Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_063
+    name: Singapore Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_064
+    name: Singapore Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_065
+    name: Singapore Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_066
+    name: Singapore Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_067
+    name: Singapore Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_068
+    name: Singapore Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_069
+    name: Singapore Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_070
+    name: Singapore Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_071
+    name: Singapore Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_072
+    name: Singapore Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_073
+    name: Singapore Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_074
+    name: Singapore Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_075
+    name: Singapore Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_076
+    name: Singapore Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_077
+    name: Singapore Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_078
+    name: Singapore Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_079
+    name: Singapore Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_080
+    name: Singapore Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_081
+    name: Singapore Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_082
+    name: Singapore Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_083
+    name: Singapore Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_084
+    name: Singapore Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_085
+    name: Singapore Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_086
+    name: Singapore Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_087
+    name: Singapore Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_088
+    name: Singapore Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_089
+    name: Singapore Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_090
+    name: Singapore Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_091
+    name: Singapore Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_092
+    name: Singapore Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_093
+    name: Singapore Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_094
+    name: Singapore Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_095
+    name: Singapore Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_096
+    name: Singapore Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_097
+    name: Singapore Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_098
+    name: Singapore Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_099
+    name: Singapore Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_100
+    name: Singapore Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_101
+    name: Singapore Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_102
+    name: Singapore Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_103
+    name: Singapore Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_104
+    name: Singapore Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_105
+    name: Singapore Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_106
+    name: Singapore Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_107
+    name: Singapore Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_108
+    name: Singapore Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_109
+    name: Singapore Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_110
+    name: Singapore Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_111
+    name: Singapore Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_112
+    name: Singapore Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_113
+    name: Singapore Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_114
+    name: Singapore Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_115
+    name: Singapore Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_116
+    name: Singapore Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_117
+    name: Singapore Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_118
+    name: Singapore Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_119
+    name: Singapore Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_120
+    name: Singapore Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_121
+    name: Singapore Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_122
+    name: Singapore Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_123
+    name: Singapore Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_124
+    name: Singapore Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_125
+    name: Singapore Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_126
+    name: Singapore Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_127
+    name: Singapore Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_128
+    name: Singapore Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_129
+    name: Singapore Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_130
+    name: Singapore Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_131
+    name: Singapore Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_132
+    name: Singapore Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_133
+    name: Singapore Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_134
+    name: Singapore Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_135
+    name: Singapore Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_136
+    name: Singapore Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_137
+    name: Singapore Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_138
+    name: Singapore Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_139
+    name: Singapore Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_140
+    name: Singapore Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_141
+    name: Singapore Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_142
+    name: Singapore Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_143
+    name: Singapore Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_144
+    name: Singapore Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_145
+    name: Singapore Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_146
+    name: Singapore Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_147
+    name: Singapore Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_148
+    name: Singapore Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_149
+    name: Singapore Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_150
+    name: Singapore Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_151
+    name: Singapore Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_152
+    name: Singapore Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_153
+    name: Singapore Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_154
+    name: Singapore Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_155
+    name: Singapore Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_156
+    name: Singapore Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_157
+    name: Singapore Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_158
+    name: Singapore Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_159
+    name: Singapore Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_160
+    name: Singapore Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_161
+    name: Singapore Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_162
+    name: Singapore Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_163
+    name: Singapore Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_164
+    name: Singapore Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_165
+    name: Singapore Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_166
+    name: Singapore Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_167
+    name: Singapore Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_168
+    name: Singapore Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_169
+    name: Singapore Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_170
+    name: Singapore Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_171
+    name: Singapore Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_172
+    name: Singapore Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_173
+    name: Singapore Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_174
+    name: Singapore Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_175
+    name: Singapore Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_176
+    name: Singapore Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_177
+    name: Singapore Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_178
+    name: Singapore Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_179
+    name: Singapore Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_180
+    name: Singapore Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_181
+    name: Singapore Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_182
+    name: Singapore Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_183
+    name: Singapore Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_184
+    name: Singapore Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_185
+    name: Singapore Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_186
+    name: Singapore Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_187
+    name: Singapore Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_188
+    name: Singapore Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_189
+    name: Singapore Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_190
+    name: Singapore Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_191
+    name: Singapore Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_192
+    name: Singapore Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_193
+    name: Singapore Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_194
+    name: Singapore Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_195
+    name: Singapore Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_196
+    name: Singapore Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_197
+    name: Singapore Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_198
+    name: Singapore Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_199
+    name: Singapore Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_200
+    name: Singapore Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_201
+    name: Singapore Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_202
+    name: Singapore Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_203
+    name: Singapore Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_204
+    name: Singapore Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_205
+    name: Singapore Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_206
+    name: Singapore Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_207
+    name: Singapore Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_208
+    name: Singapore Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_209
+    name: Singapore Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_210
+    name: Singapore Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_211
+    name: Singapore Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_212
+    name: Singapore Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_213
+    name: Singapore Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_214
+    name: Singapore Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_215
+    name: Singapore Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_216
+    name: Singapore Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_217
+    name: Singapore Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_218
+    name: Singapore Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_219
+    name: Singapore Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_220
+    name: Singapore Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_221
+    name: Singapore Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_222
+    name: Singapore Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_223
+    name: Singapore Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_224
+    name: Singapore Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_225
+    name: Singapore Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_226
+    name: Singapore Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_227
+    name: Singapore Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_228
+    name: Singapore Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_229
+    name: Singapore Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_230
+    name: Singapore Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_231
+    name: Singapore Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_232
+    name: Singapore Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_233
+    name: Singapore Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_234
+    name: Singapore Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_235
+    name: Singapore Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_236
+    name: Singapore Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_237
+    name: Singapore Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_238
+    name: Singapore Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_239
+    name: Singapore Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_240
+    name: Singapore Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_241
+    name: Singapore Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_242
+    name: Singapore Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_243
+    name: Singapore Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_244
+    name: Singapore Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_245
+    name: Singapore Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_246
+    name: Singapore Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_247
+    name: Singapore Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_248
+    name: Singapore Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_249
+    name: Singapore Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_250
+    name: Singapore Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_251
+    name: Singapore Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sg_252
+    name: Singapore Skill 252
+    status: ACTIVE_SCAFFOLD
